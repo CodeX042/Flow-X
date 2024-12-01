@@ -21,7 +21,7 @@ For complete documentation on how to integrate and use the FlowX SDK, please ref
 
 ## Contributing
 
-We encourage contributions from the community! If you have suggestions, improvements, or bug fixes, feel free to fork the repository and submit a pull request. Please ensure that your code changes are well-documented and tested.
+We encourage contributions from the community! If you have suggestions, improvements, or bug fixes, feel free to fork the repository and subemit a pull request. Please ensure that your code changes are well-documented and tested.
 
 ## License
 
